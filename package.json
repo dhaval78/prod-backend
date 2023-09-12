@@ -5,17 +5,12 @@
   },
   "name": "prod-backend",
   "version": "1.0.0",
-  "main": "productsApi.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node productsApi.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dhaval78/prod-backend.git"
-  },
-  "author": "",
+
+  "author": "dhaval",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dhaval78/prod-backend/issues"
